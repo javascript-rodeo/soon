@@ -23,6 +23,7 @@ body {
 main {
   width: auto;
   text-align: center;
+  font-weight: lighter;
 }
 
 img {
