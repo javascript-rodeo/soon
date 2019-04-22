@@ -1,15 +1,3 @@
-# My Custom App
+# JavaScript Rodeo
 
-```
-- docker
-- src
--- server
---- models
---- public
---- routes
--- ui
---- core
---- features
-
-```
-
+It is coming soon.
