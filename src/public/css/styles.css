@@ -42,7 +42,40 @@ h1 {
   font-size: 2.75rem;
 
 }
-
+.rfe-form__row {
+  display: inline;
+}
+.rfe-form {
+  margin-top: 24px;
+}
+.rfe-form__row label {
+  display: none;
+}
+.rfe-form__row input {
+  color: #212121;
+  vertical-align: middle;
+  width: 200px;
+  border: 1px solid #212121;
+  padding: 10px;
+  font-size: 14px;
+}
+.rfe-form button {
+  color: #212121;
+  vertical-align: middle;
+  width: 100px;
+  border: 1px solid #212121;
+  border-left: 0px solid #212121;
+  padding: 10px;
+  font-size: 14px;
+  background: #f7df1e;
+  cursor: pointer;
+  font-weight: bold;
+}
+.rfe-form button:hover {
+  background: #212121;
+  color: #f7df1e;
+  cursor: pointer;
+}
 .foot {
   display: none;
 }
